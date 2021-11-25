@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "daily-voc",
+    "slug": "daily-voc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "daily-voc"
+}
